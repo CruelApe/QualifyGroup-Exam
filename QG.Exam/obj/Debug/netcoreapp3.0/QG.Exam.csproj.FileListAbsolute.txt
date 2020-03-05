@@ -1,0 +1,11 @@
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\bin\Debug\netcoreapp3.0\QG.Exam.exe
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\bin\Debug\netcoreapp3.0\QG.Exam.deps.json
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\bin\Debug\netcoreapp3.0\QG.Exam.runtimeconfig.json
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\bin\Debug\netcoreapp3.0\QG.Exam.runtimeconfig.dev.json
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\bin\Debug\netcoreapp3.0\QG.Exam.dll
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\bin\Debug\netcoreapp3.0\QG.Exam.pdb
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\obj\Debug\netcoreapp3.0\QG.Exam.csprojAssemblyReference.cache
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\obj\Debug\netcoreapp3.0\QG.Exam.AssemblyInfoInputs.cache
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\obj\Debug\netcoreapp3.0\QG.Exam.AssemblyInfo.cs
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\obj\Debug\netcoreapp3.0\QG.Exam.dll
+C:\[ P R O J E C T ]\Company Exam\Qualify Group\QG.Exam\QG.Exam\obj\Debug\netcoreapp3.0\QG.Exam.pdb
