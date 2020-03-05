@@ -1,2 +1,2 @@
 # QualifyGroup-Exam
-Technical exam by Qualify Group Melbourne
+Technical exam by Diversify Offshore Staffing Solutions from Philippines 
